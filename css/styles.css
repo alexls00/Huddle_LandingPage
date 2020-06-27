@@ -1,0 +1,16 @@
+body{
+  background-color: hsl(257, 40%, 49%);
+  background-image: url("../images/bg-desktop.svg");
+}
+
+.huddle-logo{
+  height: 3.5rem;
+  margin: 3.5rem;
+}
+
+.container img{
+  width: 40rem;
+}
+.col-lg-6{
+  padding: 0;
+}
